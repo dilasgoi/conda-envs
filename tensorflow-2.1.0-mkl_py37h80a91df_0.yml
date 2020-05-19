@@ -1,0 +1,21 @@
+name: tensorflow-2.1.0-mkl_py37h80a91df_0
+channels:
+  - defaults
+dependencies:
+  - keras-applications=1.0.8=py_0
+  - keras-preprocessing=1.1.0=py_0
+  - more-itertools=8.2.0=py_0
+  - matplotlib-base=3.1.3=py37hef1b27d_0
+  - matplotlib=3.1.3=py37_0
+  - mkl=2020.1=217
+  - mkl-dnn=0.19=hfd86e86_1
+  - mkl-include=2020.1=217
+  - mkl-service=2.3.0=py37he904b0f_0
+  - mkl_fft=1.0.6=py37hd81dba3_0
+  - numpy=1.18.1=py37h4f9e942_0
+  - numpy-base=1.18.1=py37hde5b4d6_0
+  - pandas=1.0.3=py37h0573a6f_0
+  - scipy=1.4.1=py37h0b6359f_0
+  - tensorflow=2.1.0=mkl_py37h80a91df_0
+
+
